@@ -8,6 +8,6 @@ Description 2
 
 Learning Git 
 
-## Local Development
+## Local Development (New Feature)
 
 1. Open index.html in your browser
